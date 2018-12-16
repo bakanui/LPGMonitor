@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238356159314",
+    "firebase_url": "https://lpgmonitor.firebaseio.com",
+    "project_id": "lpgmonitor",
+    "storage_bucket": "lpgmonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238356159314:android:5f5af5ec29bb3fe1",
+        "android_client_info": {
+          "package_name": "com.bhaskaraidabagus.lpgmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238356159314-to8hpiut10du92verksc4ffduj9cd3gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhaskaraidabagus.lpgmonitor",
+            "certificate_hash": "08a9b363bbb3c78b87e69dcc44d396d50e68433f"
+          }
+        },
+        {
+          "client_id": "238356159314-af51d2jh49p29p31c9ddjjdu7vgbiv9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUj0RBYZ0vC10p8nYDSVf6OvmlDM8WgUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238356159314-af51d2jh49p29p31c9ddjjdu7vgbiv9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
